@@ -1,4 +1,8 @@
 **HR -Analytics**
+
+![image](https://github.com/user-attachments/assets/090313d2-e90d-411c-8d75-d6b65477feed)
+
+
 This project provides an analysis of HR (Human Resources) data using Power BI. It aims to gain insights into employee attrition and identify patterns and trends related to employee turnover. image
 
 Dataset
